@@ -4,6 +4,9 @@
 #
 # Requires root privileges and configuration before use
 #
+# Licensed under the GPL (v2), please see the COPYING file that accompanies this
+# program, or https://github.com/majava3000/fakeping
+#
 
 import sys, os
 
